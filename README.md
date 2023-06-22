@@ -1,10 +1,14 @@
 # FRT_project
+*MIND SPIRIT*
 This is a web based application developed for health related english based website in india
 
 ### This web based health based mind spirit application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 project link----------https://lively-stone-0ee33aa00.3.azurestaticapps.net
 project demo video-----
+AZURE TECHNOLOGIES USED FOR PROJECT
+@ Static web apps 
+@ health bot
 
 
 ## Features and Functionalities 😃
@@ -20,11 +24,7 @@ project demo video-----
 
 ### About us-
  📸        
-
-
 [screenshot about frt project.zip](https://github.com/satyanarayana-4O3/FRT_project/files/11833790/screenshot.about.frt.project.zip)
-
-
 
 ## Tech Stack 💻
 
